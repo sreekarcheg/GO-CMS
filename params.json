@@ -1,0 +1,6 @@
+{
+  "name": "GO-CMS",
+  "tagline": "Back-end for a Course Management System(CMS) in Go.",
+  "body": "DBMS Project\r\n\r\nCourse Management System\r\n\r\nSreekar Reddy(CS13B1008)\r\nKeyur Joshi (CS13B1014)\r\nAkshita Mittel (CS13b1040)\r\n\r\n\r\nCourse management system written in GO language with MySQL\r\n\r\nTechnologies used:\r\nJSON, AJAX, CSS, HTML, JavaScript\r\n\r\nLink to master document:\r\nhttps://docs.google.com/document/d/1i88p4V4yYJwMoW5WgtOCbbfzCspCmJamwDOvF6Imybk/edit",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
