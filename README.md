@@ -98,68 +98,68 @@ Stores details of files from the instructor that are part of an assignment speci
 
 ###Account Operations
 
-*Creation of Account
-*Email verification of Account
-*Deletion of Account
-*Elevating student accounts to dean or instructor level
-*Creation of Course
-*Deletion of Course
+* Creation of Account
+* Email verification of Account
+* Deletion of Account
+* Elevating student accounts to dean or instructor level
+* Creation of Course
+* Deletion of Course
 
 ###Course Operations
-*Commenting on an Assignment or Announcement
-*Editing previous comments
-*Deleting comments
-*Adding other Instructors, TAs, and Students
-*Removing other Instructors, TAs, and Students
-*Seeing student grades (weighted average of marks in all assignments, out of 100)
-*Adding Announcements or Assignments
-*Modifying Announcements or Assignments
-*Removing Announcements or Assignments
-*Accessing Student Submissions
-*Grading Submissions
-*Modifying Grades
-*Adding a submission
-*Modifying a submission (upto last submit date, if not graded)
-*Removing a submission (upto last submit date, if not graded)
+* Commenting on an Assignment or Announcement
+* Editing previous comments
+* Deleting comments
+* Adding other Instructors, TAs, and Students
+* Removing other Instructors, TAs, and Students
+* Seeing student grades (weighted average of marks in all assignments, out of 100)
+* Adding Announcements or Assignments
+* Modifying Announcements or Assignments
+* Removing Announcements or Assignments
+* Accessing Student Submissions
+* Grading Submissions
+* Modifying Grades
+* Adding a submission
+* Modifying a submission (upto last submit date, if not graded)
+* Removing a submission (upto last submit date, if not graded)
 
 ###Common
-*Creation of Account
-*Email verification of Account
-*Deletion of Account
+* Creation of Account
+* Email verification of Account
+* Deletion of Account
 
 ###Dean Only
-*Elevating student accounts to dean or instructor level
+* Elevating student accounts to dean or instructor level
 
 ###Instructor Only
-*Creation of Course
-*Deletion of Course
+* Creation of Course
+* Deletion of Course
 
 ##Course Operations
 
 ###Common
-*Commenting on an Assignment or Announcement
+* Commenting on an Assignment or Announcement
 
 ###Instructor Only
-*Adding other Instructors, TAs, and Students
-*Removing other Instructors, TAs, and Students
-*Seeing student grades (weighted average of marks in all assignments, out of 100)
+* Adding other Instructors, TAs, and Students
+* Removing other Instructors, TAs, and Students
+* Seeing student grades (weighted average of marks in all assignments, out of 100)
 
 ###Instructor or TA
-*Adding Announcements or Assignments
-*Modifying Announcements or Assignments
-*Removing Announcements or Assignments
-*Accessing Student Submissions
-*Grading Submissions
-*Modifying Grades
+* Adding Announcements or Assignments
+* Modifying Announcements or Assignments
+* Removing Announcements or Assignments
+* Accessing Student Submissions
+* Grading Submissions
+* Modifying Grades
 
 ###Student Only
-*Adding a submission
-*Modifying a submission (upto last submit date, if not graded)
-*Removing a submission (upto last submit date, if not graded)
-*Adding Announcements
+* Adding a submission
+* Modifying a submission (upto last submit date, if not graded)
+* Removing a submission (upto last submit date, if not graded)
+* Adding Announcements
 
 ##Contributors
-*SREE RAM SREEKAR cs13b1008@iith.ac.in
-*Akshita Mittel cs13b1040@iith.ac.in
-*Keyur Joshi
-*Arjun V Anand
+* SREE RAM SREEKAR cs13b1008@iith.ac.in
+* Akshita Mittel cs13b1040@iith.ac.in
+* Keyur Joshi
+* Arjun V Anand
