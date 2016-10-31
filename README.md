@@ -3,9 +3,7 @@
 Designed and built efficient back-end for a course-management system as part of CS3010: Database Theory, IIT 2016.
 
 ##ER diagram
-
-
-
+(https://github.com/sreekarcheg/GO-CMS/blob/master/ER-diag.png)
 
 ##Tables
 
